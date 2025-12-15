@@ -73,19 +73,19 @@ Includes write-ups, notes, and solutions for events/labs covering:
 ## 🧪 Labs & Training Platforms
 ---
 <p align="left">
-  <a href="https://tryhackme.com/p/YOUR_THM_USERNAME">
+  <a href="https://tryhackme.com/p/wilywoonka">
     <img height="28" alt="TryHackMe" src="https://img.shields.io/static/v1?label=&message=TRYHACKME&color=0B1220&style=for-the-badge&logo=tryhackme&logoColor=E05D44">
   </a>
 
-  <a href="https://app.hackthebox.com/profile/YOUR_HTB_USERNAME_OR_ID">
+  <a href="https://app.hackthebox.com/users/1638772">
     <img height="28" alt="Hack The Box" src="https://img.shields.io/static/v1?label=&message=HACK%20THE%20BOX&color=0B1220&style=for-the-badge&logo=hackthebox&logoColor=9FEF00">
   </a>
 
-  <a href="https://blueteamlabs.online/">
-    <img height="28" alt="BTLO" src="./assets/btlo.svg">
+  <a href="https://blueteamlabs.online/public/user/5357fdbecd46e6fa48e778">
+    <img height="28" alt="BTLO" src="./assets/blto.svg">
   </a>
 
-  <a href="https://YOUR_INFINITY_LEARNING_LINK_HERE">
+  <a href="https://infinity.cyberwarfare.live/u/profile">
     <img height="28" alt="Infinity Learning" src="./assets/infinity-learning.svg">
   </a>
 </p>
