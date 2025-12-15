@@ -2,7 +2,7 @@
 <!--        HEADER             -->
 <!-- ========================= -->
 
-# 👋 Hey, I'm William Holland
+# wilywoonka
 
 🚀 **SOC Analyst Trainee | Ethical Hacking Learner | Blue Team + AI Security**  
 🔐 Building practical skills through SOC investigations, log analysis, and cyber labs.
