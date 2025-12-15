@@ -73,22 +73,18 @@ Includes write-ups, notes, and solutions for events/labs covering:
 ## 🧪 Labs & Training Platforms
 ---
 <p align="left">
-  <!-- TryHackMe -->
   <a href="https://tryhackme.com/p/wilywoonka">
-    <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white">
+    <img src="https://camo.githubusercontent.com/fb25140d20f1b829c707567fda791920c362a9f2398180b5d8f38c1632086062/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472794861636b4d652d3231324334323f7374796c653d666f722d7468652d6261646765266c6f676f3d7472796861636b6d65266c6f676f436f6c6f723d726564" alt="TryHackMe" data-canonical-src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=red" style="max-width: 100%;">
   </a>
 
-  <!-- Hack The Box -->
   <a href="https://app.hackthebox.com/profile/wilywoonka">
     <img alt="Hack The Box" src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black">
   </a>
 
-  <!-- Optional: CyberDefenders -->
   <a href="https://cyberdefenders.org/p/wilywoonka">
     <img alt="CyberDefenders" src="https://img.shields.io/badge/CyberDefenders-Profile-0B1020?style=for-the-badge&logo=securityscorecard&logoColor=white">
   </a>
-
-  <!-- Optional: Blue Team Labs Online -->
+  
   <a href="https://blueteamlabs.online/public/wilywoonka">
     <img alt="Blue Team Labs Online" src="https://img.shields.io/badge/Blue%20Team%20Labs-Profile-111111?style=for-the-badge&logo=hackaday&logoColor=white">
   </a>
