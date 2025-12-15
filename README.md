@@ -73,22 +73,23 @@ Includes write-ups, notes, and solutions for events/labs covering:
 ## 🧪 Labs & Training Platforms
 ---
 <p align="left">
-  <a href="https://tryhackme.com/p/wilywoonka">
-    <img src="https://camo.githubusercontent.com/fb25140d20f1b829c707567fda791920c362a9f2398180b5d8f38c1632086062/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472794861636b4d652d3231324334323f7374796c653d666f722d7468652d6261646765266c6f676f3d7472796861636b6d65266c6f676f436f6c6f723d726564" alt="TryHackMe" data-canonical-src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=red" style="max-width: 100%;">
+  <a href="https://tryhackme.com/p/YOUR_THM_USERNAME">
+    <img height="28" alt="TryHackMe" src="https://img.shields.io/static/v1?label=&message=TRYHACKME&color=0B1220&style=for-the-badge&logo=tryhackme&logoColor=E05D44">
   </a>
 
-  <a href="https://app.hackthebox.com/profile/wilywoonka">
-    <img alt="Hack The Box" src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black">
+  <a href="https://app.hackthebox.com/profile/YOUR_HTB_USERNAME_OR_ID">
+    <img height="28" alt="Hack The Box" src="https://img.shields.io/static/v1?label=&message=HACK%20THE%20BOX&color=0B1220&style=for-the-badge&logo=hackthebox&logoColor=9FEF00">
   </a>
 
-  <a href="https://cyberdefenders.org/p/wilywoonka">
-    <img alt="CyberDefenders" src="https://img.shields.io/badge/CyberDefenders-Profile-0B1020?style=for-the-badge&logo=securityscorecard&logoColor=white">
+  <a href="https://blueteamlabs.online/">
+    <img height="28" alt="BTLO" src="./assets/badges/btlo.svg">
   </a>
-  
-  <a href="https://blueteamlabs.online/public/wilywoonka">
-    <img alt="Blue Team Labs Online" src="https://img.shields.io/badge/Blue%20Team%20Labs-Profile-111111?style=for-the-badge&logo=hackaday&logoColor=white">
+
+  <a href="https://YOUR_INFINITY_LEARNING_LINK_HERE">
+    <img height="28" alt="Infinity Learning" src="./assets/badges/infinity-learning.svg">
   </a>
 </p>
+
 
 ## 🌐 Connect with Me
 
