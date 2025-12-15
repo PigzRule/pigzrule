@@ -33,7 +33,7 @@ Includes write-ups, notes, and solutions for events/labs covering:
 
 <p align="left">
   <a href="https://github.com/PigzRule/writeups">
-    <img alt="Open Writeups" src="https://img.shields.io/badge/Open-Writeups-2ea44f?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="Open Writeups" src="https://img.shields.io/badge/&logo=github&logoColor=white">
   </a>
 </p>
 
