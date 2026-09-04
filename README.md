@@ -24,18 +24,18 @@
 
 I love breaking things down to understand how they work, then rebuilding them better, faster, and more secure. Most of my free time is spent building fun passion projects at the crossroads of **Minecraft game architecture** and **hands-on cybersecurity**:
 
-🧱 **Minecraft Internals & Modding**: Developing lightweight Fabric mods, digging into client/server networking pipelines, reverse-engineering server resource packs, building micro-glyph UI systems, and crafting responsive chat automations.
-🔍 **Cybersecurity & Reverse Engineering**: Analyzing network protocols, binary disassembly and decompilation, security auditing, malware behavioral analysis, and threat modeling.
-⚡ **Automation & Scripting**: Writing custom PowerShell and Python tooling to automate workflows, build pipelines, and forensic log parsing.
+- **Minecraft Internals & Modding**: Developing lightweight Fabric mods, digging into client/server networking pipelines, reverse-engineering server resource packs, building micro-glyph UI systems, and crafting responsive chat automations.
+- **Cybersecurity & Reverse Engineering**: Analyzing network protocols, binary disassembly and decompilation, security auditing, malware behavioral analysis, and threat modeling.
+- **Automation & Scripting**: Writing custom PowerShell and Python tooling to automate workflows, build pipelines, and forensic log parsing.
 
 
 ---
 
 ### 🚀 What I'm Usually Working On
 
-🎮 **Client-Side Minecraft Utilities**: Custom mods optimized for high TPS, single-pixel text alignments, human-paced dispatch queues, and zero-overhead performance.
-🔐 **Security Research & Forensics**: Investigating protocol abuse, traffic anomaly analysis, and exploring defensive systems against modern attack vectors.
-📦 **Decompilation & Pack Analysis**: Digging into custom server resource packs, bytecode analysis, and discovering hidden game mechanics.
+- **Client-Side Minecraft Utilities**: Custom mods optimized for high TPS, single-pixel text alignments, human-paced dispatch queues, and zero-overhead performance.
+- **Security Research & Forensics**: Investigating protocol abuse, traffic anomaly analysis, and exploring defensive systems against modern attack vectors.
+- **Decompilation & Pack Analysis**: Digging into custom server resource packs, bytecode analysis, and discovering hidden game mechanics.
 
 ---
 
