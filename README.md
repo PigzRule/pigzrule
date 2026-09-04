@@ -39,15 +39,6 @@ I love breaking things down to understand how they work, then rebuilding them be
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_PigzRuleE&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PigzRuleE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 <div align="center">
   <sub>Built with curiosity, coffee, and a passion for code. 🚀</sub>
 </div>
