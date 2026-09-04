@@ -1,6 +1,6 @@
 <div align="center">
 
-  # pigzrule 👋
+  # pigzrule
   
   ### 🎮 Minecraft Internals & Modding &nbsp;|&nbsp; 🛡️ Cybersecurity & Reverse Engineering
 
